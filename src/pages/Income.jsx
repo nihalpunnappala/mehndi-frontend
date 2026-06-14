@@ -187,6 +187,7 @@ const Income = () => {
                                     value={formData.serviceType} onChange={e => setFormData({...formData, serviceType: e.target.value})}>
                                     <option value="">Select service...</option>
                                     <option>Henna Cones</option>
+                                    <option>Nail cones</option>
                                     <option>Stencils</option>
                                     <option>Henna Appointments</option>
                                     <option>YouTube</option>
