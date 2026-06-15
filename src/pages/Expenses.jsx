@@ -174,6 +174,7 @@ const Expenses = () => {
                                     <option>Cover</option>
                                     <option>Cellophane Sheet</option>
                                     <option>Logo Sticker</option>
+                                    <option>Stencil</option>
                                     <option>Travel Expenses</option>
                                     <option>Nail Liquid</option>
                                 </select>
